@@ -43,7 +43,7 @@ A simple console-based banking system that allows users to create accounts, log 
     
     ```bash
     ./banking_system      # Linux/macOS
-    banking_system.exe    # Windows
+    .\banking_system.exe    # Windows
     
     ```
     
