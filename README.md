@@ -80,9 +80,3 @@ A simple console-based banking system that allows users to create accounts, log 
     - Follow prompts to complete the action.
 4. **Exit**:
     - Choose **Option 4** to log out and return to the main menu.
-
----
-
-**Improvement Ideas**: Add encryption for passwords, input validation, and a graphical interface.
-
-**License**: Open-source (free for modification and redistribution).
